@@ -7,3 +7,6 @@ R2 4 meses
 Q3 Qual é seu objetivo como profissional de TI?
 R3 Pos graduaçao em devops continuous software engineer e pretendo MBA em software engineering para o ano que vem e em segurança continuar a area academica um dia em Quantum Computing.
 
+Q4 O que você espera com o curso de Go?
+R4 Aprender a utilizar a linguagem no trabalho de forma avançada mesmo que ainda nao proficiente.
+
