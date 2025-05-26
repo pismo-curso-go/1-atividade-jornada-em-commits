@@ -10,3 +10,6 @@ R3 Pos graduaçao em devops continuous software engineer e pretendo MBA em softw
 Q4 O que você espera com o curso de Go?
 R4 Aprender a utilizar a linguagem no trabalho de forma avançada mesmo que ainda nao proficiente.
 
+Q5 Conte um pouco sobre sua rotina de trabalho (setor, area de atuação, projetos, tecnologias)
+R5 Sou do time de setup, atuamos em APIs, serviços da AWS, ferramenta da esteira de Dev e Devops como codefresh, argo, sql mysql, dynamoDB, S3, curl claw, docker, terraform , postman, kubernetes, etc.
+
